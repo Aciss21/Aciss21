@@ -4,12 +4,13 @@ Android · Kernel · Git
 
 </div>
 
+<div align="center">
 <table>
 <tr>
 <td width="55%" valign="top">👨‍💻 About Me?
 
 ```
-I'm Aciss, an Android kernel developer focused on building, porting and tweaking Android kernels and ROMs.
+I'm Aciss, an beginner Android kernel developer.
 
 🔧 Android Kernel Development
 📱 Android ROM,KERNEL Development
