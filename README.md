@@ -2,7 +2,7 @@
 
 Android · Kernel · Git
 
-</div>---
+</div>
 
 <table>
 <tr>
@@ -19,7 +19,7 @@ I'm Aciss, an Android kernel developer focused on building, porting and tweaking
 
 <div align="center"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kernel-000000?style=for-the-badge&logo=linux&logoColor=white"/></div>---
+<img src="https://img.shields.io/badge/Kernel-000000?style=for-the-badge&logo=linux&logoColor=white"/></div>
 
 📌 Featured Projects
 
@@ -27,9 +27,8 @@ I'm Aciss, an Android kernel developer focused on building, porting and tweaking
 <img src="https://img.shields.io/badge/📱%20Device%20Xiaomi%20Courbet-6a11cb?style=for-the-badge" />
 </a><a href="https://github.com/Aciss21/kernel_xiaomi_sm6150">
 <img src="https://img.shields.io/badge/🐧%20SM6150%20Kernel-2575fc?style=for-the-badge" />
-</a></div>---
+</a></div>
 
----
 
 📫 Let's Connect
 
