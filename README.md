@@ -1,8 +1,4 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=190&section=header&text=Hi%20There!%20I'm%20Aciss&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>Android Kernel Developer
 
-Android · Kernel · Git
-
-</div>
 
 <div align="center">
 <table>
@@ -10,7 +6,8 @@ Android · Kernel · Git
 <td width="55%" valign="top">👨‍💻 About Me?
 
 ```
-I'm Aciss, an beginner Android kernel developer.
+I'm Aciss, an beginner
+Android kernel developer.
 
 🔧 Android Kernel Development
 📱 Android ROM,KERNEL Development
